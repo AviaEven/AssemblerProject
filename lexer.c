@@ -6,7 +6,7 @@
 #include <limits.h>
 #include <stdio.h>
 #include <string.h>
-#include "../data_structures/trie/trie.h"
+#include "trie.h"
 #define SPACE_CHARS " \t\n\f\r\v"
 #define SKIP_SPACE(s) while(*s && isspace(*s)) s++
 #define SKIP_SPACE_R(s,base) while(*s && isspace(*s) && base != s) s++
