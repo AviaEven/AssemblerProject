@@ -1,7 +1,7 @@
 
 #ifndef __OUTPUT_UNIT_H_
 #define __OUTPUT_UNIT_H_
-#include "../common/mmn14_common.h"
+#include "common.h"
 
 /**
  * @brief this is the output unit.
