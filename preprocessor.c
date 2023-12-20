@@ -1,7 +1,7 @@
 
 #include "preprocessor.h"
-#include "../data_structures/vector/vector.h"
-#include "../data_structures/trie/trie.h"
+#include "vector.h"
+#include "trie.h"
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
