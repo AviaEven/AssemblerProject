@@ -1,7 +1,7 @@
-#include "../common/mmn14_common.h"
-#include "../lexer/lexer.h"
-#include "../preprocessor/preprocessor.h"
-#include "../output_unit/output_unit.h"
+#include "common.h"
+#include "lexer.h"
+#include "preprocessor.h"
+#include "output_unit.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
